@@ -17,6 +17,7 @@ Chess is a game with endless possibilities and complexities. With the advent of 
 
 ## 📂 Repository Contents
 
+- **[InputCSV](./games.csv)**: The dataset used for analysis, contains over 20,000 chess games with various features.
 - **[Presentation](./DS502_Team_1_Leveraging_Chess_Game_Presentation.pdf)**: A summary of our project's key findings and results.
 - **[Final Report](./DS502_Team_1_Leveraging_Chess_Game_Report.pdf)**: A comprehensive analysis of the dataset, including preprocessing steps, methods used, and detailed results.
 - **[Machine Learning Models (Python)](./ML_Chess_Outcome_Prediction.ipynb)**: Jupyter notebook containing machine learning models and predictive analysis.
