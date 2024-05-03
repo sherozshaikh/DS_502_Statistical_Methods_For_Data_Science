@@ -1,9 +1,9 @@
-## University & Course Details
+# University & Course Details
 - Course: CS 502 - Statistical Methods For Data Science
 - University: Worcester Polytechnic Institute
 - Semester: Spring 2024
 
-## 📚 Chess Player Performance Prediction
+# ♟️ Chess Player Performance Prediction
 
 Welcome to the Chess Player Performance Prediction project! This repository contains the code, analysis, and documentation for our project focused on predicting player performance in chess games. By exploring a large dataset from Lichess, we aim to understand the strategic patterns, player characteristics, and factors that influence chess game outcomes.
 
