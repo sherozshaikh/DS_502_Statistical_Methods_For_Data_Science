@@ -1,4 +1,4 @@
-# University & Course Details
+# 🎓 University & Course Details
 - Course: CS 502 - Statistical Methods For Data Science
 - University: Worcester Polytechnic Institute
 - Semester: Spring 2024
